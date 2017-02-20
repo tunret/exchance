@@ -1,0 +1,89 @@
+body{
+	background-color: #663904;
+}
+.wrap{
+	margin: 0 auto;
+	width: 800px;
+	height: 550px;
+	background-color: #454545;
+	margin-top: 40px;
+	border-radius: 1%;
+	border:solid #ff9b19 4px;
+
+}
+#head{
+	text-align: center;
+	font-family: Comic Sans MS;
+	font-size:50px;
+	margin-top: 10px;
+	float: left 43%;
+	color: #ff9b19;
+}
+.wrap h1{
+	color: #dd3333;
+	text-align: center;
+
+}
+select{
+	width: 250px;
+	height: 40px;
+	border-radius: 1%;
+	padding-left: 15px;
+	margin-left: 100px;
+	margin-top:10px;
+}
+.pic{
+	width: 30px;
+	height: 30px;
+	background-color: #321;
+}
+select:focus{
+	border:solid #ff9b19 3px;
+}
+.input-text{
+	width: 600px;
+	height: 40px;
+	border-radius: 1%;
+	padding-left: 15px;
+	margin-left: 100px;
+	margin-top:40px;
+
+}
+.input-text:focus{
+	border:solid #ff9b19 4px;
+}
+#btn{
+	width: 200px;
+	height: 50px;
+	background-color: #ff9b19;
+	text-align: center;
+	margin-top: 40px;
+	border-radius: 1%;
+	margin-left: 38%;
+	margin-right: 100px;
+	cursor: pointer;
+	color: #fff;
+}
+ #btn:hover {
+	background-color: #d28c11;
+}
+#text{
+	width: 250px;
+	height: 20px;
+	font-size: 16px;
+	color: #ff9b19;
+	margin-left: 100px;
+	margin-top: 20px;
+	font-family: Comic Sans MS;
+	border-bottom: solid 5px #ff9b19;
+	float: left;
+}
+.mar{margin-top:40px;}
+#textans{
+	font-family: Comic Sans MS;
+	text-align: center;
+	font-size: 48px;
+	color: #ff9b19;
+	margin-top:40px;
+
+}
